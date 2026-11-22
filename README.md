@@ -7,7 +7,7 @@ Built for **UAB The Hack! 2026** · 7–8 November 2026 · Escola d'Enginyeria U
 ![Status](https://img.shields.io/badge/status-hackathon%20prototype-blue)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![VIDEO](https://youtu.be/bL_MfDehktQ)
+[![XAFMAN demo](https://img.youtube.com/vi/bL_MfDehktQ/hqdefault.jpg)](https://youtu.be/bL_MfDehktQ)
 
 ---
 
